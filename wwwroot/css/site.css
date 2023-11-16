@@ -1,4 +1,4 @@
-﻿@import url('font/quicksand.css');
+@import url('font/quicksand.css');
 
 body, html {
     height: 100%;
@@ -664,6 +664,7 @@ input[type=range] {
         border: 1px solid #ddd;
         background: rgba(255,255,255,0.3);
         padding: 1.25rem 1rem;
+        border-radius:0.5rem;
     }
 
         .checkout-cols > div:first-child {
